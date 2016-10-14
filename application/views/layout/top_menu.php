@@ -19,7 +19,7 @@
         <li>
 			<?php
 				$text_cart_url  = '<span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>';
-				$text_cart_url .= ' Inside Cart: '. $this->cart->total_items() .' items';
+				$text_cart_url .= ' Shopping Cart: '. $this->cart->total_items() .' items';
 			?>
 			<?=anchor('welcome/cart', $text_cart_url)?>
 		</li>

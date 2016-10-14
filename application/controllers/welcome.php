@@ -29,8 +29,6 @@ class Welcome extends CI_Controller {
 	}
 	
 	public function cart(){
-		// displays what currently inside the cart
-		//print_r($this->cart->contents());
 		$this->load->view('show_cart');
 	}
 	
@@ -41,5 +39,5 @@ class Welcome extends CI_Controller {
 	}
 }
 
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
+/* Yunan Helmi Al Anbarry */
+/* Toko Online*/

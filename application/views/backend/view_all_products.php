@@ -22,7 +22,7 @@
 				<table id="myTable" class="table table-striped table-bordered table-hover">
 					<thead>
 						<tr>
-							<th>#</th>
+							<th>No</th>
 							<th>Product Name</th>
 							<th>Product Image</th>
 							<th>Price</th>

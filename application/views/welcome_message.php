@@ -22,6 +22,7 @@
 			  <div class="caption">
 				<h3 style="min-height:60px;"><?=$product->name?></h3>
 				<p><?=$product->description?></p>
+				<p>Rp. <?=$product->price?></p>
 				<p>
 					<?=anchor('welcome/add_to_cart/' . $product->id, 'Buy' , [
 						'class'	=> 'btn btn-primary',

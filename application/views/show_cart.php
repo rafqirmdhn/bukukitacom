@@ -12,9 +12,9 @@
 		<table class="table table-bordered table-striped table-hover">
 			<thead>
 				<tr>
-					<th>#</th>
+					<th>No</th>
 					<th>Product</th>
-					<th>Qty</th>
+					<th>Jumlah</th>
 					<th>Price</th>
 					<th>Subtotal</th>
 				</tr>
