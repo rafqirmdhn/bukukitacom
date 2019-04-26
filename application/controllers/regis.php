@@ -8,10 +8,9 @@
 
 		public function index(){
 			$username=$this->input->post('username');
-			$email=$this->input->post('email');
 			$password=$this->input->post('password');
 			$group=$this->input->post('group');
-			$this->model_regis->tambah($username,$email,$password,$group);
+			$this->model_regis->tambah($username,$password,$group);
 			redirect('regis/member');
 		}
 		public function member(){

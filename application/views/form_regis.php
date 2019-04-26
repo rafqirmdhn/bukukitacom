@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Toko Online | Inwepo</title>
+		<title>BukuKita</title>
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
@@ -22,12 +22,12 @@
 			  <input type="text" class="form-control" name="username" placeholder="Username">
 			</div>
 		  </div>
-		  <div class="form-group">
-			<label class="col-sm-2 control-label">Email</label>
-			<div class="col-sm-10">
-			  <input type="text" class="form-control" name="email" placeholder="Email">
-			</div>
-		  </div>
+		  <!-- <div class="form-group"> -->
+			<!-- <label class="col-sm-2 control-label">Email</label> -->
+			<!-- <div class="col-sm-10"> -->
+			  <!-- <input type="text" class="form-control" name="email" placeholder="Email"> -->
+			<!-- </div> -->
+		  <!-- </div> -->
 		  <div class="form-group">
 			<label class="col-sm-2 control-label">Password</label>
 			<div class="col-sm-10">
